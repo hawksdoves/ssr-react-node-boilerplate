@@ -2,7 +2,7 @@
 
 This is a basic isomorphic boilerplate app, built with react, node/express, ES6 and serverside rendering.
 
-[You can see my tutorial here](#https://codeburst.io/headache-free-ssr-react-js-node-js-and-es6-app-boilerplate-tutorial-267f7be0b7b5)
+[You can see my tutorial here](https://codeburst.io/headache-free-ssr-react-js-node-js-and-es6-app-boilerplate-tutorial-267f7be0b7b5)
 
 Note: As typically my projects don’t expand the server side that significantly, i.e. the server doesn’t have that many modules, I don’t see much benefit in using webpack to bundle it into one file. So I have used babel to transpile the server and webpack for the client.
 
